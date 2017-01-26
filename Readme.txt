@@ -1,3 +1,5 @@
+C codes used for my experiment, now using MATLAB instead.
+
 Parameters can be changed in RadialScan.h
 
 Written for Windows 64bit.
