@@ -1,4 +1,5 @@
-C codes used for my experiment, now using MATLAB instead.
+Now obsolete, replaced by a MATLAB package using mex functions.
+The camera part of the package is uploaded to GitHub as the matlab_pvcam64 repository.
 
 Parameters can be changed in RadialScan.h
 
@@ -13,4 +14,6 @@ Tested with Visual Studio.
 
 API/SDK used:
 
-PVCAM64 SDK (pvcam.h, master.h) provided by Photometrics GPIB(NI4882) from NI, purchased along with PCIe-GPIB card Zaber Core Serial Library v1.0 in C for Binary Protocal specific to the stages purchased (downloadable aat http://www.zaber.com/wiki/Software)
+PVCAM64 SDK (pvcam.h, master.h) provided by Photometrics 
+GPIB(NI4882) from NI, purchased along with PCIe-GPIB card 
+Zaber Core Serial Library v1.0 in C for Binary Protocal specific to the stages purchased
